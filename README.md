@@ -1,12 +1,12 @@
 # Atividade Extra 1 (2° Trimestre): Adicionar capacidade de fazer cache em rotas estáticas no api.ts
 
-To install dependencies:
+Para instalar as dependências:
 
 ```bash
 bun install
 ```
 
-To run:
+Para testar se o BUN/TS foi instalado corretamente:
 
 ```bash
 bun run index.ts
