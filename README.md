@@ -1,5 +1,8 @@
 # Atividade Extra 1 (2° Trimestre): Adicionar capacidade de fazer cache em rotas estáticas no api.ts
 
+-Para evitar que a api buscasse o arquivo estático no HD do usuário frequentemente, foi utilizado a estrutura "Map" para armazenar os arquivos em um modelo chave-valor
+(Além de Map, poderiam ser utilizados alternativas como Objetos simples, Records, etc)
+
 Para instalar as dependências:
 
 ```bash
